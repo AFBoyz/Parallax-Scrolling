@@ -1,2 +1,2 @@
 # Parallax-Scrolling
-This Website (Parallax Scrolling)  Project for my portfolio - University
+Parallax-Scrolling my info
